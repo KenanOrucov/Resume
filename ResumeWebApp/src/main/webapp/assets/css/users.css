@@ -1,0 +1,22 @@
+.mycontainer div{
+    margin-bottom: 10px;
+}
+
+.login_fix{
+    background-color: #fffdfd40;
+    border: white;
+    padding-top: 172px;
+    font-style: italic;
+
+    width: 500px;
+    height: 500px;
+}
+.buttoncls{
+    display: flex;
+}
+
+
+#login-id{
+    display: inline;
+    float: right;
+}
